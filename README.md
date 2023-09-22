@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lvzhenwu125
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on 密码学算法工程师
+- 💞️ I’m looking to collaborate on 密码学工程师
 - 📫 How to reach me 1527861917@qq.com
 
 <!---
